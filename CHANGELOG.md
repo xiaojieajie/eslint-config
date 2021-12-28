@@ -1,3 +1,7 @@
+## [0.0.5](https://github.com/chris-zhu/eslint-config/compare/v0.0.4...v0.0.5) (2021-12-28)
+
+
+
 ## [0.0.4](https://github.com/chris-zhu/eslint-config/compare/v0.0.3...v0.0.4) (2021-12-28)
 
 
