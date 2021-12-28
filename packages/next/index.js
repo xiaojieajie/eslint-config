@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    '@hannoeru/eslint-config-react',
+    '@chris-zhu/eslint-config-react',
     'plugin:@next/next/recommended',
   ],
   plugins: ['jsx-a11y'],

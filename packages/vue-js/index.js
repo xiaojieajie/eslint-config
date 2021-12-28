@@ -14,7 +14,7 @@ module.exports = {
   ],
   extends: [
     'plugin:vue/vue3-recommended',
-    '@hannoeru/eslint-config-basic',
+    '@chris-zhu/eslint-config-basic',
   ],
   parserOptions: {
     parser: '@babel/eslint-parser',

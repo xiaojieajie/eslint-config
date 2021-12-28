@@ -1,10 +1,10 @@
 {
-  "name": "@hannoeru/eslint-config",
-  "version": "0.5.3",
+  "name": "@chris-zhu/eslint-config",
+  "version": "0.0.2",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "author": "hannoeru <me@hanlee.co>",
+  "author": "chris-zhu <1633711653@qq.com>",
   "files": [
     "index.js"
   ],
@@ -16,8 +16,8 @@
     "access": "public"
   },
   "dependencies": {
-    "@hannoeru/eslint-config-react": "workspace:*",
-    "@hannoeru/eslint-config-vue": "workspace:*"
+    "@chris-zhu/eslint-config-react": "workspace:*",
+    "@chris-zhu/eslint-config-vue": "workspace:*"
   },
   "devDependencies": {
     "eslint": "^8.5.0"

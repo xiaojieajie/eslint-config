@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    '@hannoeru/eslint-config-ts',
+    '@chris-zhu/eslint-config-ts',
   ],
   overrides: [
     {

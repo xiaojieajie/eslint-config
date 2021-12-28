@@ -1,8 +1,8 @@
 {
-  "name": "@hannoeru/eslint-config-monorepo",
-  "version": "0.5.3",
+  "name": "@chris-zhu/eslint-config-monorepo",
+  "version": "0.0.2",
   "license": "MIT",
-  "author": "hannoeru <me@hanlee.co>",
+  "author": "chris-zhu <1633711653@qq.com>",
   "private": true,
   "scripts": {
     "preinstall": "npx only-allow pnpm",
@@ -12,7 +12,7 @@
     "release": "zx scripts/release.mjs"
   },
   "devDependencies": {
-    "@hannoeru/eslint-config": "workspace:*",
+    "@chris-zhu/eslint-config": "workspace:*",
     "bumpp": "^7.1.1",
     "child_process": "^1.0.2",
     "conventional-changelog-cli": "^2.1.1",
