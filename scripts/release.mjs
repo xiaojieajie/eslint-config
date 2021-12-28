@@ -5,14 +5,6 @@ import { $ } from 'zx'
 
 execSync('pnpm exec bumpp package.json packages/*/package.json', { stdio: 'inherit' })
 
-// const tag = await $`git tag`
-// const a = tag.stdout.split('\n')
-// console.log(a)
-
-// a.forEach(async(b) => {
-//   await $`git tag -d ${b}`
-// })
-
 await $`pnpm changelog`
 
 await $`pnpm -r publish --access public --no-git-checks`
