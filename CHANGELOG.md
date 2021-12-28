@@ -1,4 +1,8 @@
-## 0.0.1 (2021-12-28)
+## [0.0.2](https://github.com/chris-zhu/eslint-config/compare/v0.0.1...v0.0.2) (2021-12-28)
+
+
+
+## [0.0.1](https://github.com/chris-zhu/eslint-config/compare/2438c6b929d0a99579d090e61abf95d061a9f091...v0.0.1) (2021-12-28)
 
 
 ### Bug Fixes
