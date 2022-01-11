@@ -1,9 +1,14 @@
 {
-  "name": "@chris-zhu/eslint-config-monorepo",
-  "version": "0.0.4",
+  "name": "@black-tooth/eslint-config-monorepo",
+  "version": "0.0.3",
   "license": "MIT",
-  "author": "chris-zhu <1633711653@qq.com>",
+  "author": "black-tooth <953136447@qq.com>",
   "private": true,
+  "keywords": ["eslint", "eslint-config", "vue-eslint", "react-eslint"],
+  "homepage": "https://github.com/xiaojieajie/eslint-config",
+  "bugs": {
+    "email": "953136447@qq.com"
+  },
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "lint": "eslint --ext .js,.json,.vue .",
@@ -13,7 +18,7 @@
     "removeTag": "zx scripts/removeTag.mjs"
   },
   "devDependencies": {
-    "@chris-zhu/eslint-config": "workspace:*",
+    "@black-tooth/eslint-config": "workspace:*",
     "bumpp": "^7.1.1",
     "child_process": "^1.0.2",
     "conventional-changelog-cli": "^2.1.1",

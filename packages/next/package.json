@@ -1,10 +1,10 @@
 {
-  "name": "@chris-zhu/eslint-config-next",
-  "version": "0.0.4",
+  "name": "@black-tooth/eslint-config-next",
+  "version": "0.0.3",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "author": "chris-zhu <1633711653@qq.com>",
+  "author": "black-tooth <953136447@qq.com>",
   "files": [
     "index.js"
   ],
@@ -19,7 +19,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@chris-zhu/eslint-config-react": "workspace:*",
+    "@black-tooth/eslint-config-react": "workspace:*",
     "@next/eslint-plugin-next": "^12.0.7",
     "eslint-plugin-jsx-a11y": "^6.5.1"
   },

@@ -1,10 +1,10 @@
 {
-  "name": "@chris-zhu/eslint-config-react",
-  "version": "0.0.4",
+  "name": "@black-tooth/eslint-config-react",
+  "version": "0.0.3",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "author": "chris-zhu <1633711653@qq.com>",
+  "author": "black-tooth <953136447@qq.com>",
   "files": [
     "index.js"
   ],
@@ -19,7 +19,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@chris-zhu/eslint-config-ts": "workspace:*",
+    "@black-tooth/eslint-config-ts": "workspace:*",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0"
   },

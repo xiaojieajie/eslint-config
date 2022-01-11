@@ -79,3 +79,5 @@ dist
 .idea
 
 *.lerna_backup
+
+npm.txt

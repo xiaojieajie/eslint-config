@@ -15,7 +15,7 @@ module.exports = {
   ],
   extends: [
     'plugin:vue/vue3-recommended',
-    '@chris-zhu/eslint-config-ts',
+    '@black-tooth/eslint-config-ts',
   ],
   rules: {
     'vue/max-attributes-per-line': ['warn', { singleline: 5 }],
