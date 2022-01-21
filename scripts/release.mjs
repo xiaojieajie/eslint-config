@@ -7,7 +7,7 @@ execSync('pnpm exec bumpp package.json packages/*/package.json', { stdio: 'inher
 
 await $`pnpm changelog`
 
-await $`pnpm -r publish --access public --no-git-checks --opt=${process.argv.slice(-1)}`
+await $`pnpm -r publish --access public --no-git-checks`
 
 const { version } = await fs.readJSON('package.json')
 
