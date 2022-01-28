@@ -1,6 +1,6 @@
 {
   "name": "@black-tooth/eslint-config-ts",
-  "version": "0.0.3",
+  "version": "0.0.7",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -19,7 +19,7 @@
   "dependencies": {
     "@black-tooth/eslint-config-basic": "workspace:*",
     "@typescript-eslint/eslint-plugin": "^5.9.0",
-    "@typescript-eslint/parser": "^5.9.0",
+    "@typescript-eslint/parser": ">=4.1.0 <5.0.0",
     "eslint-import-resolver-typescript": "^2.5.0",
     "eslint-plugin-import": "^2.25.4"
   },

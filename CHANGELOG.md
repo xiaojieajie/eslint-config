@@ -1,4 +1,4 @@
-## [0.0.3](https://github.com/xiaojieajie/eslint-config/compare/v0.0.4...v0.0.3) (2022-01-21)
+## [0.0.7](https://github.com/xiaojieajie/eslint-config/compare/v0.0.4...v0.0.7) (2022-01-28)
 
 
 
