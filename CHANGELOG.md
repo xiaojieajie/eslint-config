@@ -1,17 +1,10 @@
 ## [0.0.4](https://github.com/chris-zhu/eslint-config/compare/v0.0.3...v0.0.4) (2022-01-07)
 
-
-
 ## [0.0.3](https://github.com/chris-zhu/eslint-config/compare/v0.0.2...v0.0.3) (2021-12-28)
-
-
 
 ## [0.0.2](https://github.com/chris-zhu/eslint-config/compare/v0.0.1...v0.0.2) (2021-12-28)
 
-
-
 ## [0.0.1](https://github.com/chris-zhu/eslint-config/compare/2438c6b929d0a99579d090e61abf95d061a9f091...v0.0.1) (2021-12-28)
-
 
 ### Bug Fixes
 
@@ -87,7 +80,6 @@
 * vue deps ([03b3d7a](https://github.com/chris-zhu/eslint-config/commit/03b3d7a295524dd1f665c938e227d44879dc27d1))
 * workspace pkg version ([7dfa428](https://github.com/chris-zhu/eslint-config/commit/7dfa4289707d0dbf54b8fce7f38068a6b2a82d0e))
 
-
 ### Features
 
 * add changelog & release script ([f2ac31d](https://github.com/chris-zhu/eslint-config/commit/f2ac31de950a86595496e42305d4ce51af4bd0ff))
@@ -112,10 +104,6 @@
 * rules ([100e3cf](https://github.com/chris-zhu/eslint-config/commit/100e3cfedf40e1481eee122fe1bd3098ac8ebe3e))
 * support eslint v8 ([d74b33a](https://github.com/chris-zhu/eslint-config/commit/d74b33aed69e1c3b5c2a6cbeb9134e6107aac964))
 
-
 ### Reverts
 
 * eslint 8 require ([c3d89e0](https://github.com/chris-zhu/eslint-config/commit/c3d89e0c3e20891a03ff4e841779fe3553cc5fa8))
-
-
-
