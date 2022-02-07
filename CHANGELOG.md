@@ -1,15 +1,318 @@
-## [0.0.4](https://github.com/chris-zhu/eslint-config/compare/v0.0.3...v0.0.4) (2022-01-07)
+## [0.0.5](https://github.com/chris-zhu/eslint-config/compare/v0.6.0...v0.0.5) (2022-02-07)
+
+
+
+## [0.0.4](https://github.com/chris-zhu/eslint-config/compare/v0.5.6...v0.0.4) (2022-01-07)
+
+
 
 ## [0.0.3](https://github.com/chris-zhu/eslint-config/compare/v0.0.2...v0.0.3) (2021-12-28)
 
+
+
 ## [0.0.2](https://github.com/chris-zhu/eslint-config/compare/v0.0.1...v0.0.2) (2021-12-28)
 
-## [0.0.1](https://github.com/chris-zhu/eslint-config/compare/2438c6b929d0a99579d090e61abf95d061a9f091...v0.0.1) (2021-12-28)
+
+
+## [0.0.1](https://github.com/chris-zhu/eslint-config/compare/v0.5.3...v0.0.1) (2021-12-28)
+
+
+
+# [0.6.0](https://github.com/chris-zhu/eslint-config/compare/v0.0.4...v0.6.0) (2022-01-14)
+
+
+
+## [0.5.6](https://github.com/chris-zhu/eslint-config/compare/v0.5.5...v0.5.6) (2022-01-05)
+
+
+### Features
+
+* add react rules ([215158c](https://github.com/chris-zhu/eslint-config/commit/215158cd0de940e54d953801440164c592a8d836))
+
+
+
+## [0.5.5](https://github.com/chris-zhu/eslint-config/compare/v0.5.4...v0.5.5) (2022-01-04)
+
+
+
+## [0.5.4](https://github.com/chris-zhu/eslint-config/compare/v0.0.3...v0.5.4) (2021-12-30)
+
+
+### Bug Fixes
+
+* indent decorator issue ([8936eb7](https://github.com/chris-zhu/eslint-config/commit/8936eb7d24bacfae4644b1533ba7d7830757899d))
+
+
+
+## [0.0.4](https://github.com/chris-zhu/eslint-config/compare/v0.5.6...v0.0.4) (2022-01-07)
+
+
+
+## [0.0.3](https://github.com/chris-zhu/eslint-config/compare/v0.0.2...v0.0.3) (2021-12-28)
+
+
+
+## [0.0.2](https://github.com/chris-zhu/eslint-config/compare/v0.0.1...v0.0.2) (2021-12-28)
+
+
+
+## [0.0.1](https://github.com/chris-zhu/eslint-config/compare/v0.5.3...v0.0.1) (2021-12-28)
+
+
+
+## [0.5.6](https://github.com/chris-zhu/eslint-config/compare/v0.5.5...v0.5.6) (2022-01-05)
+
+
+### Features
+
+* add react rules ([215158c](https://github.com/chris-zhu/eslint-config/commit/215158cd0de940e54d953801440164c592a8d836))
+
+
+
+## [0.5.5](https://github.com/chris-zhu/eslint-config/compare/v0.5.4...v0.5.5) (2022-01-04)
+
+
+
+## [0.5.4](https://github.com/chris-zhu/eslint-config/compare/v0.0.3...v0.5.4) (2021-12-30)
+
+
+### Bug Fixes
+
+* indent decorator issue ([8936eb7](https://github.com/chris-zhu/eslint-config/commit/8936eb7d24bacfae4644b1533ba7d7830757899d))
+
+
+
+## [0.0.3](https://github.com/chris-zhu/eslint-config/compare/v0.0.2...v0.0.3) (2021-12-28)
+
+
+
+## [0.0.2](https://github.com/chris-zhu/eslint-config/compare/v0.0.1...v0.0.2) (2021-12-28)
+
+
+
+## [0.0.1](https://github.com/chris-zhu/eslint-config/compare/v0.5.3...v0.0.1) (2021-12-28)
+
+
+### Bug Fixes
+
+* disable react/display-name ([971f4e8](https://github.com/chris-zhu/eslint-config/commit/971f4e87e0cbc7019e8b69a413427ebd33ce2280))
+
+
+
+## [0.5.3](https://github.com/chris-zhu/eslint-config/compare/v0.5.2...v0.5.3) (2021-12-21)
+
+
+### Features
+
+* force self close element ([782d874](https://github.com/chris-zhu/eslint-config/commit/782d8745ec4293c783ca79538f07b41320a9cac9))
+
+
+
+## [0.5.2](https://github.com/chris-zhu/eslint-config/compare/v0.5.1...v0.5.2) (2021-12-18)
+
+
+
+## [0.5.1](https://github.com/chris-zhu/eslint-config/compare/v0.5.0...v0.5.1) (2021-12-18)
+
+
+### Bug Fixes
+
+* import type order ([0718d16](https://github.com/chris-zhu/eslint-config/commit/0718d16a2a08d7f8742030693543e879c36eb3f5))
+
+
+
+# [0.5.0](https://github.com/chris-zhu/eslint-config/compare/v0.4.3...v0.5.0) (2021-12-18)
+
+
+
+## [0.4.3](https://github.com/chris-zhu/eslint-config/compare/v0.4.2...v0.4.3) (2021-12-12)
+
+
+### Features
+
+* ignore unused vars with `_` prefixed ([66f82b5](https://github.com/chris-zhu/eslint-config/commit/66f82b55f7b7389c0539dd3b45082023f11dcebc))
+
+
+
+## [0.4.2](https://github.com/chris-zhu/eslint-config/compare/v0.4.1...v0.4.2) (2021-12-11)
+
+
+### Features
+
+* rules ([100e3cf](https://github.com/chris-zhu/eslint-config/commit/100e3cfedf40e1481eee122fe1bd3098ac8ebe3e))
+
+
+
+## [0.4.1](https://github.com/chris-zhu/eslint-config/compare/v0.4.0...v0.4.1) (2021-12-11)
+
+
+
+# [0.4.0](https://github.com/chris-zhu/eslint-config/compare/v0.3.5...v0.4.0) (2021-12-10)
+
+
+### Features
+
+* add react hooks plugin ([78013e7](https://github.com/chris-zhu/eslint-config/commit/78013e7d6e0ae71bb53ea94d669f08d3b6775fb8))
+* import resolver and next config ([93ba190](https://github.com/chris-zhu/eslint-config/commit/93ba1903135324be6b5029f3e8f304df22c627e9))
+
+
+
+## [0.3.5](https://github.com/chris-zhu/eslint-config/compare/v0.3.4...v0.3.5) (2021-11-22)
+
+
+### Reverts
+
+* eslint 8 require ([c3d89e0](https://github.com/chris-zhu/eslint-config/commit/c3d89e0c3e20891a03ff4e841779fe3553cc5fa8))
+
+
+
+## [0.3.4](https://github.com/chris-zhu/eslint-config/compare/v0.3.3...v0.3.4) (2021-11-22)
+
+
+### Bug Fixes
+
+* add default js parser ([d2f4679](https://github.com/chris-zhu/eslint-config/commit/d2f4679ab95025139ad8918d94f3df310637c6db))
+
+
+
+## [0.3.3](https://github.com/chris-zhu/eslint-config/compare/v0.3.2...v0.3.3) (2021-11-22)
+
+
+### Features
+
+* disable vue/multi-word-component-names ([2836cc9](https://github.com/chris-zhu/eslint-config/commit/2836cc9311b6fcf013c464e2491003dd0c6edd9b))
+
+
+
+## [0.3.2](https://github.com/chris-zhu/eslint-config/compare/v0.3.1...v0.3.2) (2021-11-22)
+
+
+
+## [0.3.1](https://github.com/chris-zhu/eslint-config/compare/v0.3.0...v0.3.1) (2021-11-20)
+
+
+### Features
+
+* add vue package for js ([32affde](https://github.com/chris-zhu/eslint-config/commit/32affde55dc30976bae8958fe311e6de10202a02))
+
+
+
+# [0.3.0](https://github.com/chris-zhu/eslint-config/compare/v0.2.8...v0.3.0) (2021-10-20)
+
+
+
+## [0.2.8](https://github.com/chris-zhu/eslint-config/compare/v0.2.7...v0.2.8) (2021-10-20)
+
+
+### Bug Fixes
+
+* disable bug rules ([aca258d](https://github.com/chris-zhu/eslint-config/commit/aca258d03820dd7670859d2b09a766f50fe9320a))
+
+
+### Features
+
+* add yaml file parser ([06a2487](https://github.com/chris-zhu/eslint-config/commit/06a248761030c2ade843af14b461df49085f1f9a))
+* improve rules for specific files ([887652f](https://github.com/chris-zhu/eslint-config/commit/887652f5783047d9672afa09920ebdbe5b796aa1))
+* support eslint v8 ([d74b33a](https://github.com/chris-zhu/eslint-config/commit/d74b33aed69e1c3b5c2a6cbeb9134e6107aac964))
+
+
+
+## [0.2.7](https://github.com/chris-zhu/eslint-config/compare/v0.2.6...v0.2.7) (2021-09-03)
+
+
+### Features
+
+* disable vue/require-default-prop ([516faeb](https://github.com/chris-zhu/eslint-config/commit/516faeb5ec858d0ff7f9108da53fea5dba494582))
+
+
+
+## [0.2.6](https://github.com/chris-zhu/eslint-config/compare/v0.2.5...v0.2.6) (2021-09-03)
+
+
+
+## [0.2.5](https://github.com/chris-zhu/eslint-config/compare/v0.2.4...v0.2.5) (2021-09-03)
+
+
+### Bug Fixes
+
+* type import order ([42f4a8b](https://github.com/chris-zhu/eslint-config/commit/42f4a8b6519261e846b23e355ac35330a51dc712))
+
+
+
+## [0.2.4](https://github.com/chris-zhu/eslint-config/compare/v0.2.3...v0.2.4) (2021-08-27)
+
+
+### Bug Fixes
+
+* remove path groups for wrong order in type import ([ba91a06](https://github.com/chris-zhu/eslint-config/commit/ba91a0653dd3dac3c7dd0709780db734da9fa652))
+
+
+
+## [0.2.3](https://github.com/chris-zhu/eslint-config/compare/v0.2.2...v0.2.3) (2021-08-27)
+
+
+### Features
+
+* add no-tabs ([b71ecaa](https://github.com/chris-zhu/eslint-config/commit/b71ecaa943415fca9b5a48e982985bef2fd638ff))
+
+
+
+## [0.2.2](https://github.com/chris-zhu/eslint-config/compare/v0.2.1...v0.2.2) (2021-08-27)
+
+
+### Features
+
+* order type import ([97c6abc](https://github.com/chris-zhu/eslint-config/commit/97c6abc2e41fd46dfa68a911fd32535a0c011ec9))
+
+
+
+## [0.2.1](https://github.com/chris-zhu/eslint-config/compare/v0.2.0...v0.2.1) (2021-07-17)
+
+
+### Bug Fixes
+
+* disable `no-undef` in vue files, handle by typescript ([7ae3bc2](https://github.com/chris-zhu/eslint-config/commit/7ae3bc2fb3389af75c5e0ba64d759efd9077af07))
+
+
+
+# [0.2.0](https://github.com/chris-zhu/eslint-config/compare/v0.1.5...v0.2.0) (2021-07-05)
+
+
+### Features
+
+* make vue helper functions available globally ([2de263d](https://github.com/chris-zhu/eslint-config/commit/2de263d5b9d1e73598c97cea94a39375c18d7ddb))
+
+
+
+## [0.1.5](https://github.com/chris-zhu/eslint-config/compare/v0.1.4...v0.1.5) (2021-06-16)
+
+
+
+## [0.1.4](https://github.com/chris-zhu/eslint-config/compare/v0.1.3...v0.1.4) (2021-06-11)
+
+
+### Features
+
+* change brace-style to 1tbs ([32f97b5](https://github.com/chris-zhu/eslint-config/commit/32f97b524e0a5b6d2a2defc305f29ded6c41adf3))
+
+
+
+## [0.1.3](https://github.com/chris-zhu/eslint-config/compare/v0.1.2...v0.1.3) (2021-06-11)
+
+
+### Features
+
+* add changelog & release script ([f2ac31d](https://github.com/chris-zhu/eslint-config/commit/f2ac31de950a86595496e42305d4ce51af4bd0ff))
+* enable release script & remove lerna ([644678a](https://github.com/chris-zhu/eslint-config/commit/644678a24f8c6cc4abc108dc61dcdce62419ae1f))
+
+
+
+## [0.1.2](https://github.com/chris-zhu/eslint-config/compare/2438c6b929d0a99579d090e61abf95d061a9f091...v0.1.2) (2021-06-09)
+
 
 ### Bug Fixes
 
 * `no-spaced-func` was deprecated in v3.3.0 ([#57](https://github.com/chris-zhu/eslint-config/issues/57)) ([c968ecc](https://github.com/chris-zhu/eslint-config/commit/c968eccbcda3f94fb8b66ed08051c41bde3acb48))
-* add default js parser ([d2f4679](https://github.com/chris-zhu/eslint-config/commit/d2f4679ab95025139ad8918d94f3df310637c6db))
 * bring back eslint-plugin-html ([3150569](https://github.com/chris-zhu/eslint-config/commit/31505698e4738ac77e074d6cddf89fd16b0ed01f))
 * configs ([7e82e51](https://github.com/chris-zhu/eslint-config/commit/7e82e51fcaf532686a82b3f2008195ec3cfd84ce))
 * dependencies ([c773e5e](https://github.com/chris-zhu/eslint-config/commit/c773e5e043ad37a90785ccfe4834b4fcd2a9dadd))
@@ -56,20 +359,14 @@
 * **deps:** update dependency eslint-plugin-vue to v7.0.0-beta.0 ([e0b59f2](https://github.com/chris-zhu/eslint-config/commit/e0b59f271fa3c679e5c4a7d61b5af79cef37721f))
 * **deps:** update typescript-eslint monorepo to v2 ([1f4250e](https://github.com/chris-zhu/eslint-config/commit/1f4250e75ea44a9e1280b4cfcea63ffd9a32aa80))
 * **deps:** update typescript-eslint monorepo to v3 ([ebb1820](https://github.com/chris-zhu/eslint-config/commit/ebb18209d5c8417da41be7ca8b2b8658bd4ba1a5))
-* disable `no-undef` in vue files, handle by typescript ([7ae3bc2](https://github.com/chris-zhu/eslint-config/commit/7ae3bc2fb3389af75c5e0ba64d759efd9077af07))
-* disable bug rules ([aca258d](https://github.com/chris-zhu/eslint-config/commit/aca258d03820dd7670859d2b09a766f50fe9320a))
 * disable import/no-absolute-path ([245001d](https://github.com/chris-zhu/eslint-config/commit/245001d08129b3ec4961741d596f70abb2c9be5f))
-* disable react/display-name ([971f4e8](https://github.com/chris-zhu/eslint-config/commit/971f4e87e0cbc7019e8b69a413427ebd33ce2280))
 * eslint-basic rules do not take effect ([#56](https://github.com/chris-zhu/eslint-config/issues/56)) ([412d848](https://github.com/chris-zhu/eslint-config/commit/412d8480d951e8361dda69be8a7e8722c255b755))
 * extends order ([0b40222](https://github.com/chris-zhu/eslint-config/commit/0b40222ae9e6b659fa802d91e5a074665345b67a))
-* import type order ([0718d16](https://github.com/chris-zhu/eslint-config/commit/0718d16a2a08d7f8742030693543e879c36eb3f5))
 * no-console ([ab21039](https://github.com/chris-zhu/eslint-config/commit/ab21039962d1e24f026714abd394dbea19199eb2))
 * npm access public ([2022fc2](https://github.com/chris-zhu/eslint-config/commit/2022fc2a1f93c9b7b1a331b465a6fe9bca174d82))
 * only disable no-unused-vars on vue file ([6759593](https://github.com/chris-zhu/eslint-config/commit/67595932e447824837d9776204c9b559cb06a185))
 * overrides ([8f3f8f5](https://github.com/chris-zhu/eslint-config/commit/8f3f8f5a42e1864b42ba7b276b1e8efdb2e80e27))
 * ref ([e53f3ec](https://github.com/chris-zhu/eslint-config/commit/e53f3ec8dbc1cc3e32d57c08604b2b1d51661ca4))
-* remove path groups for wrong order in type import ([ba91a06](https://github.com/chris-zhu/eslint-config/commit/ba91a0653dd3dac3c7dd0709780db734da9fa652))
-* type import order ([42f4a8b](https://github.com/chris-zhu/eslint-config/commit/42f4a8b6519261e846b23e355ac35330a51dc712))
 * typescript-eslint conflict with indent rule ([f133652](https://github.com/chris-zhu/eslint-config/commit/f13365239058912177e01f902faa5fb2475e6135))
 * update ([ce7f9ec](https://github.com/chris-zhu/eslint-config/commit/ce7f9ec9687fea47757e973344fd2068cc7e5a8f))
 * update ts config ([0a2b8cd](https://github.com/chris-zhu/eslint-config/commit/0a2b8cdedef251c724c6c2f9394debf96ada2d66))
@@ -80,30 +377,13 @@
 * vue deps ([03b3d7a](https://github.com/chris-zhu/eslint-config/commit/03b3d7a295524dd1f665c938e227d44879dc27d1))
 * workspace pkg version ([7dfa428](https://github.com/chris-zhu/eslint-config/commit/7dfa4289707d0dbf54b8fce7f38068a6b2a82d0e))
 
+
 ### Features
 
-* add changelog & release script ([f2ac31d](https://github.com/chris-zhu/eslint-config/commit/f2ac31de950a86595496e42305d4ce51af4bd0ff))
-* add no-tabs ([b71ecaa](https://github.com/chris-zhu/eslint-config/commit/b71ecaa943415fca9b5a48e982985bef2fd638ff))
 * add react and all ([a7fbdca](https://github.com/chris-zhu/eslint-config/commit/a7fbdcad4b20294e26e817fae468f468376e49cf))
-* add react hooks plugin ([78013e7](https://github.com/chris-zhu/eslint-config/commit/78013e7d6e0ae71bb53ea94d669f08d3b6775fb8))
 * add ts config ([b025b09](https://github.com/chris-zhu/eslint-config/commit/b025b09a5fb7ebc55af0c4d8be7fe4a98cabdd06))
-* add vue package for js ([32affde](https://github.com/chris-zhu/eslint-config/commit/32affde55dc30976bae8958fe311e6de10202a02))
-* add yaml file parser ([06a2487](https://github.com/chris-zhu/eslint-config/commit/06a248761030c2ade843af14b461df49085f1f9a))
-* change brace-style to 1tbs ([32f97b5](https://github.com/chris-zhu/eslint-config/commit/32f97b524e0a5b6d2a2defc305f29ded6c41adf3))
-* disable vue/multi-word-component-names ([2836cc9](https://github.com/chris-zhu/eslint-config/commit/2836cc9311b6fcf013c464e2491003dd0c6edd9b))
-* disable vue/require-default-prop ([516faeb](https://github.com/chris-zhu/eslint-config/commit/516faeb5ec858d0ff7f9108da53fea5dba494582))
-* enable release script & remove lerna ([644678a](https://github.com/chris-zhu/eslint-config/commit/644678a24f8c6cc4abc108dc61dcdce62419ae1f))
-* force self close element ([782d874](https://github.com/chris-zhu/eslint-config/commit/782d8745ec4293c783ca79538f07b41320a9cac9))
-* ignore unused vars with `_` prefixed ([66f82b5](https://github.com/chris-zhu/eslint-config/commit/66f82b55f7b7389c0539dd3b45082023f11dcebc))
-* import resolver and next config ([93ba190](https://github.com/chris-zhu/eslint-config/commit/93ba1903135324be6b5029f3e8f304df22c627e9))
-* improve rules for specific files ([887652f](https://github.com/chris-zhu/eslint-config/commit/887652f5783047d9672afa09920ebdbe5b796aa1))
-* make vue helper functions available globally ([2de263d](https://github.com/chris-zhu/eslint-config/commit/2de263d5b9d1e73598c97cea94a39375c18d7ddb))
 * no unused disable ([5678d9f](https://github.com/chris-zhu/eslint-config/commit/5678d9f5c3f72669d79434fba108c01d28f339e3))
-* order type import ([97c6abc](https://github.com/chris-zhu/eslint-config/commit/97c6abc2e41fd46dfa68a911fd32535a0c011ec9))
 * overhaul ([d11174c](https://github.com/chris-zhu/eslint-config/commit/d11174c6ddfa6fad5c3f47564985a65f46f83bff))
-* rules ([100e3cf](https://github.com/chris-zhu/eslint-config/commit/100e3cfedf40e1481eee122fe1bd3098ac8ebe3e))
-* support eslint v8 ([d74b33a](https://github.com/chris-zhu/eslint-config/commit/d74b33aed69e1c3b5c2a6cbeb9134e6107aac964))
 
-### Reverts
 
-* eslint 8 require ([c3d89e0](https://github.com/chris-zhu/eslint-config/commit/c3d89e0c3e20891a03ff4e841779fe3553cc5fa8))
+
