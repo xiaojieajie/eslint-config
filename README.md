@@ -30,4 +30,4 @@ pnpm lint:fix
 
 ## License
 
-MIT License © 2021 [hannoeru](https://github.com/hannoeru)
+MIT License © 2021 [chris-zhu](https://github.com/chris-zhu)

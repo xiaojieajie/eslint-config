@@ -19,7 +19,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@hannoeru/eslint-config-ts": "workspace:*",
+    "@chris-zhu/eslint-config-ts": "workspace:*",
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0"
   },
