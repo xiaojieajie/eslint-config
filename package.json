@@ -1,6 +1,6 @@
 {
   "name": "@black-tooth/eslint-config-monorepo",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "license": "MIT",
   "author": "black-tooth <953136447@qq.com>",
   "private": true,

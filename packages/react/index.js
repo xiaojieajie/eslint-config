@@ -26,14 +26,11 @@ module.exports = {
           allowFunctions: true,
           allowArrowFunctions: true,
         }],
-<<<<<<< HEAD
         'react/jsx-no-bind': ['error', {
           ignoreRefs: true,
           allowFunctions: true,
           allowArrowFunctions: true,
         }],
-=======
->>>>>>> upstream/main
         'react/jsx-tag-spacing': 'error',
         'react/jsx-key': ['error', { checkFragmentShorthand: true }],
         'react/self-closing-comp': 'error',
