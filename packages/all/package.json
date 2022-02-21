@@ -1,6 +1,6 @@
 {
   "name": "@black-tooth/eslint-config",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "",
   "keywords": [],
   "license": "MIT",
@@ -10,7 +10,7 @@
   ],
   "main": "index.js",
   "peerDependencies": {
-    "eslint": ">=7.4.0 || ^8.0.0"
+    "eslint": "^8.0.0"
   },
   "publishConfig": {
     "access": "public"
