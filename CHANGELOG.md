@@ -1,3 +1,17 @@
+## [0.0.9](https://github.com/xiaojieajie/eslint-config/compare/v0.0.8...v0.0.9) (2022-02-21)
+
+
+### Bug Fixes
+
+* indent decorator issue ([8936eb7](https://github.com/xiaojieajie/eslint-config/commit/8936eb7d24bacfae4644b1533ba7d7830757899d))
+
+
+### Features
+
+* add react rules ([215158c](https://github.com/xiaojieajie/eslint-config/commit/215158cd0de940e54d953801440164c592a8d836))
+
+
+
 ## [0.0.8](https://github.com/xiaojieajie/eslint-config/compare/v0.0.7...v0.0.8) (2022-02-21)
 
 
