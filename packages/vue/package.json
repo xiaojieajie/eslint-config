@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@black-tooth/eslint-config-ts": "workspace:*",
-    "eslint-plugin-vue": "8.2.0"
+    "eslint-plugin-vue": "8.3.0"
   },
   "devDependencies": {
     "eslint": "^8.6.0"
